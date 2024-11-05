@@ -1,0 +1,5 @@
+C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/CubeLab/CMakeFiles/CubeLab.dir
+C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/CubeLab/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/CubeLab/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/CubeLab/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/CubeLab/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
